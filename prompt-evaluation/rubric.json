@@ -1,0 +1,9 @@
+{
+  "dimensions": [
+    { "name": "accuracy", "scale": 5, "definition": "Factual correctness & alignment to standards" },
+    { "name": "clarity", "scale": 5, "definition": "Age-appropriate language, concise explanations" },
+    { "name": "tone", "scale": 5, "definition": "Supportive, neutral, bias-aware, and inclusive wording" },
+    { "name": "instructional_alignment", "scale": 5, "definition": "Matches prompt intent and grade level; usable by teachers" }
+  ],
+  "scoring_guide": "Score each dimension from 1 (poor) to 5 (excellent)."
+}
